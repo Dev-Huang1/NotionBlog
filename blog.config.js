@@ -79,7 +79,7 @@ const BLOG = {
     '"Segoe UI Symbol"',
     '"Segoe UI"',
     '"Noto Sans SC"',
-    'HarmonyOS_Regular',
+    // 'HarmonyOS_Regular',
     '"Helvetica Neue"',
     'Helvetica',
     '"Source Han Sans SC"',

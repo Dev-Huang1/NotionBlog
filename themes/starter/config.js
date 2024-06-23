@@ -47,10 +47,10 @@ const CONFIG = {
   STARTER_FEATURE_2_BUTTON_URL:
     '', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '优秀的性能', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '基于NextJS开发，更快的响应速度，更好的SEO', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_TITLE_1: 'Clean code', // 特性3
+  STARTER_FEATURE_3_TEXT_1: 'Our code and UI design strives to be concise, clean, modern and very smooth.', // 特性3
+  STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: '', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
   STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4

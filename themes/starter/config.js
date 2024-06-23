@@ -58,7 +58,7 @@ const CONFIG = {
   STARTER_FEATURE_4_BUTTON_URL: '', // 特性4
 
   // 首页ABOUT区块
-  STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
+  STARTER_ABOUT_ENABLE: false, // ABOUT区块开关
   STARTER_ABOUT_TITLE: 'What's PythonOS?',
   STARTER_ABOUT_TEXT:
     'PythonOS is a simple operating system designed and developed using the Python programming language. All the code is open source, concise and clear, and takes up very little memory.',

@@ -44,8 +44,7 @@ const CONFIG = {
   STARTER_FEATURE_2_TITLE_1: 'Various built-in apps', // 特性2
   STARTER_FEATURE_2_TEXT_1: 'PythonOS has many built-in apps, including alarm clock, calendar, calculator, etc.', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2
-  STARTER_FEATURE_2_BUTTON_URL:
-    '', // 特性2
+  STARTER_FEATURE_2_BUTTON_URL: '', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: 'Clean code', // 特性3
   STARTER_FEATURE_3_TEXT_1: 'Our code and UI design strives to be concise, clean, modern and very smooth.', // 特性3

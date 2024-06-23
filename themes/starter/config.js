@@ -306,9 +306,8 @@ const CONFIG = {
     },
       ]
     }
-  ],
 
-  // STARTER_FOOTER_BLOG_LATEST_TITLE: 'Laster news',
+  STARTER_FOOTER_BLOG_LATEST_TITLE: 'Laster news',
 
   // STARTER_FOOTER_PRIVACY_POLICY_TEXT: '',
   // STARTER_FOOTER_PRIVACY_POLICY_URL: '',

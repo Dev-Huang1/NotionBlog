@@ -71,7 +71,7 @@ const CONFIG = {
   STARTER_ABOUT_TIPS_3: '正在线上运行',
 
   // 首页价格区块
-  STARTER_PRICING_ENABLE: true, // 价格区块开关
+  STARTER_PRICING_ENABLE: false, // 价格区块开关
   STARTER_PRICING_TITLE: '价格表',
   STARTER_PRICING_TEXT_1: '很棒的定价计划',
   STARTER_PRICING_TEXT_2:

@@ -31,8 +31,8 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: '特性', // 特性
-  STARTER_FEATURE_TEXT_1: 'NotionNext的主要特性', // 特性
+  STARTER_FEATURE_TITLE: 'Features', // 特性
+  STARTER_FEATURE_TEXT_1: 'Key Features of PythonOS', // 特性
   STARTER_FEATURE_TEXT_2:
     'NotionNext的愿景是帮助您简单、无感知地稳定地搭建自己的网站，放大品牌的价值。 ', // 特性
 

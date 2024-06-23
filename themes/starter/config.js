@@ -20,7 +20,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_URL: '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.webp', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: 'https://cdn.xyehr.cn/images/333884905-b65a99c2-4dd0-4f8f-b283-d7a6b1f13ecc.png', // 产品预览图 ，默认读取public目录下图片
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: 'Sign In',

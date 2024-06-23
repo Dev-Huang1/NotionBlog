@@ -66,9 +66,9 @@ const CONFIG = {
   STARTER_ABOUT_BUTTON_URL: 'https://github.com/happyleibniz/Python-Operating-System',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: '',
-  STARTER_ABOUT_TIPS_2: '',
-  STARTER_ABOUT_TIPS_3: '',
+  STARTER_ABOUT_TIPS_1: '1',
+  STARTER_ABOUT_TIPS_2: '2',
+  STARTER_ABOUT_TIPS_3: '3',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: false, // 价格区块开关

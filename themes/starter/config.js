@@ -324,7 +324,7 @@ const CONFIG = {
   STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '',
 
   // 404页面的提示语
-  STARTER_404_TITLE: 'It looks like we can't find the page you're looking for.',
+  STARTER_404_TITLE: 'It looks like we cannot find the page you are looking for.',
   STARTER_404_TEXT: 'Sorry! The page you are looking for does not exist. It may have been moved or deleted.',
   STARTER_404_BACK: 'Back to Home',
 

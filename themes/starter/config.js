@@ -66,9 +66,9 @@ const CONFIG = {
   STARTER_ABOUT_BUTTON_URL: 'https://github.com/happyleibniz/Python-Operating-System',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  // STARTER_ABOUT_TIPS_1: '',
-  // STARTER_ABOUT_TIPS_2: '',
-  // STARTER_ABOUT_TIPS_3: '',
+  STARTER_ABOUT_TIPS_1: 'Fast',
+  STARTER_ABOUT_TIPS_2: 'Safe',
+  STARTER_ABOUT_TIPS_3: 'and Concise',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: false, // 价格区块开关
@@ -276,7 +276,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
+  STARTER_FOOTER_SLOGAN: 'Open a new world with code!',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [

@@ -284,10 +284,10 @@ const CONFIG = {
       TITLE: 'About us',
       LINK_GROUP: [
         { TITLE: 'Home', URL: '/#home' },
-        { TITLE: 'Wiki', URL: 'https://github.com/happyleibniz/Python-Operating-System/wiki/Home' },
+        { TITLE: 'Docs', URL: 'https://github.com/happyleibniz/Python-Operating-System/wiki/Home' },
         {
           TITLE: 'Help & Support',
-          URL: 'https://x.com/PythonOS_Sup'
+          URL: 'https://support.xyehr.cn'
         },
         {
           TITLE: 'Join us',
@@ -303,21 +303,19 @@ const CONFIG = {
           URL: 'https://github.com/happyleibniz/Python-Operating-System/wiki/Home'
         },
       ]
-    }
-      ]
-    }
+    },
   ],
 
-  STARTER_FOOTER_BLOG_LATEST_TITLE: '最新文章',
+  STARTER_FOOTER_BLOG_LATEST_TITLE: 'Laster news',
 
-  STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
-  STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
+  // STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
+  // STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
 
   STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: 'Legal Notices',
   STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: 'https://github.com/happyleibniz/Python-Operating-System/wiki/Agreement-&-Legal-Notices',
     
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议',
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
+  // STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议',
+  // STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
 
   // 404页面的提示语
   STARTER_404_TITLE: 'It looks like we cannot find the page you are looking for.',

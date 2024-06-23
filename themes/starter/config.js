@@ -211,11 +211,6 @@ const CONFIG = {
       STARTER_TEAM_ITEM_NICKNAME: 'shenjack',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
     },
-    {
-      STARTER_TEAM_ITEM_AVATAR: '/',
-      STARTER_TEAM_ITEM_NICKNAME: '',
-      STARTER_TEAM_ITEM_DESCRIPTION: ''
-    }
   ],
 
   // 博客文章区块

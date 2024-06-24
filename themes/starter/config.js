@@ -281,7 +281,7 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: 'Products'
+      TITLE: 'Products',
       LINK_GROUP: [
         {
           TITLE: 'PythonOS',

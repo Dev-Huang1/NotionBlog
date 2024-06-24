@@ -24,7 +24,7 @@ const CONFIG = {
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: 'About',
-  STARTER_NAV_BUTTON_1_URL: '',
+  STARTER_NAV_BUTTON_1_URL: 'https://www.xyehr.cn/zh/about',
 
   STARTER_NAV_BUTTON_2_TEXT: 'Download',
   STARTER_NAV_BUTTON_2_URL: 'https://github.com/happyleibniz/Python-Operating-System/',
@@ -296,7 +296,7 @@ const CONFIG = {
       LINK_GROUP: [
         { 
           TITLE: 'About us', 
-          URL: '' 
+          URL: 'https://www.xyehr.cn/zh/about' 
         },
         {
           TITLE: 'Developer Center',

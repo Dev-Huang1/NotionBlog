@@ -281,17 +281,25 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
+      TITLE: 'Products'
+      LINK_GROUP: [
+        {
+          TITLE: 'PythonOS',
+          URL: ''
+        },
+        {
+          TITLE: 'Minecraft Python Edition',
+          URL: ''
+        }
+      ]
+    }
+    {
       TITLE: 'Team',
       LINK_GROUP: [
         { 
-          TITLE: 'Home', 
-          URL: 'https://www.xyehr.cn' 
+          TITLE: 'About us', 
+          URL: '' 
         },
-      ]
-    },
-    {
-      TITLE: 'Developer & Community',
-      LINK_GROUP: [
         {
           TITLE: 'Developer Center',
           URL: 'https://x.com/PythonOS_Dev'
@@ -303,6 +311,10 @@ const CONFIG = {
         {
           TITLE: 'User Community',
           URL: 'https://discord.com/invite/TeWWcmzAnf'
+        },
+        {
+          TITLE: 'Open Source',
+          URL: ''
         }
       ]
     },
@@ -316,6 +328,10 @@ const CONFIG = {
         {
           TITLE: 'Help & Support',
           URL: 'https://support.xyehr.cn'
+        },
+        { 
+          TITLE: 'Events', 
+          URL: '' 
         },
         {
           TITLE: 'Contact us',

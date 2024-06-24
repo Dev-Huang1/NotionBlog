@@ -300,8 +300,8 @@ const CONFIG = {
           URL: 'https://x.com/messages/compose?recipient_id=1751626832280166400'
         },
         {
-          TITLE: 'Join us',
-          URL: 'https://support.xyehr.cn/jekyll/2024-06-12-join-us.html'
+          TITLE: 'User Community',
+          URL: ''
         }
       ]
     },
@@ -310,8 +310,12 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: 'Developer Center',
-          URL: ''
+          URL: 'https://x.com/PythonOS_Dev'
         },
+        {
+          TITLE: 'Developer Community',
+          URL: 'https://support.xyehr.cn/jekyll/2024-06-12-join-us.html'
+        }
       ]
     },
   ],

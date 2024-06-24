@@ -281,17 +281,23 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: 'About us',
+      TITLE: 'Team',
       LINK_GROUP: [
-        { TITLE: 'Home', URL: '/#home' },
-        { TITLE: 'Docs', URL: 'https://github.com/happyleibniz/Python-Operating-System/wiki/Home' },
+        { 
+          TITLE: 'Home', 
+          URL: 'https://www.xyehr.cn' 
+        },
+        { 
+          TITLE: 'Docs', 
+          URL: 'https://github.com/happyleibniz/Python-Operating-System/wiki/Home' 
+        },
         {
           TITLE: 'Support',
           URL: 'https://support.xyehr.cn'
         },
         {
           TITLE: 'Help',
-          URL: 'https://twitter.com/messages/compose?recipient_id=1751626832280166400'
+          URL: 'https://x.com/messages/compose?recipient_id=1751626832280166400'
         },
         {
           TITLE: 'Join us',
@@ -300,11 +306,11 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: 'Features',
+      TITLE: 'Developer',
       LINK_GROUP: [
         {
-          TITLE: 'Running Guide',
-          URL: 'https://github.com/happyleibniz/Python-Operating-System/wiki/Home'
+          TITLE: 'Developer Center',
+          URL: ''
         },
       ]
     },

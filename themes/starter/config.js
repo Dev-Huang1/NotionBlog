@@ -231,7 +231,7 @@ const CONFIG = {
   STARTER_CONTACT_EMAIL_TEXT: 'support@xyehr.cn',
 
   // 嵌入外部表单
-  // STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/contact-us-4tljys', // 基于NoteForm创建，将留言数据存在Notion中
+  STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/contact-us-4tljys', // 基于NoteForm创建，将留言数据存在Notion中
   //   自定义留言表单，以下几个配置暂时废弃
   //   STARTER_CONTACT_MSG_TITLE: '向我们留言',
   //   STARTER_CONTACT_MSG_NAME: '姓名',
@@ -286,8 +286,12 @@ const CONFIG = {
         { TITLE: 'Home', URL: '/#home' },
         { TITLE: 'Docs', URL: 'https://github.com/happyleibniz/Python-Operating-System/wiki/Home' },
         {
-          TITLE: 'Help & Support',
+          TITLE: 'Support',
           URL: 'https://support.xyehr.cn'
+        },
+        {
+          TITLE: 'Help',
+          URL: 'https://twitter.com/messages/compose?recipient_id=1751626832280166400'
         },
         {
           TITLE: 'Join us',
@@ -318,7 +322,8 @@ const CONFIG = {
   // STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
 
   // 404页面的提示语
-  STARTER_404_TITLE: 'It looks like we cannot find the page you are looking for.',
+  // STARTER_404_TITLE: 'It looks like we cannot find the page you are looking for.',
+  STARTER_404_TITLE: '404',
   STARTER_404_TEXT: 'Sorry! The page you are looking for does not exist. It may have been moved or deleted.',
   STARTER_404_BACK: 'Back to Home',
 

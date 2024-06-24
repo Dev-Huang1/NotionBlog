@@ -287,26 +287,10 @@ const CONFIG = {
           TITLE: 'Home', 
           URL: 'https://www.xyehr.cn' 
         },
-        { 
-          TITLE: 'Docs', 
-          URL: 'https://github.com/happyleibniz/Python-Operating-System/wiki/Home' 
-        },
-        {
-          TITLE: 'Support',
-          URL: 'https://support.xyehr.cn'
-        },
-        {
-          TITLE: 'Help',
-          URL: 'https://x.com/messages/compose?recipient_id=1751626832280166400'
-        },
-        {
-          TITLE: 'User Community',
-          URL: ''
-        }
       ]
     },
     {
-      TITLE: 'Developer',
+      TITLE: 'Developer & Community',
       LINK_GROUP: [
         {
           TITLE: 'Developer Center',
@@ -315,12 +299,33 @@ const CONFIG = {
         {
           TITLE: 'Developer Community',
           URL: 'https://support.xyehr.cn/jekyll/2024-06-12-join-us.html'
+        },
+        {
+          TITLE: 'User Community',
+          URL: 'https://discord.com/invite/TeWWcmzAnf'
         }
+      ]
+    },
+    {
+      TITLE: 'Connect',
+      LINK_GROUP: [
+        { 
+          TITLE: 'Docs & Wiki', 
+          URL: 'https://github.com/happyleibniz/Python-Operating-System/wiki/Home' 
+        },
+        {
+          TITLE: 'Help & Support',
+          URL: 'https://support.xyehr.cn'
+        },
+        {
+          TITLE: 'Contact us',
+          URL: ''
+        },
       ]
     },
   ],
 
-  STARTER_FOOTER_BLOG_LATEST_TITLE: 'Laster news',
+  STARTER_FOOTER_BLOG_LATEST_TITLE: 'Press and media',
 
   // STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
   // STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',

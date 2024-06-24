@@ -217,7 +217,7 @@ const CONFIG = {
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
   STARTER_BLOG_TITLE: 'Our blog',
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
-  STARTER_BLOG_TEXT_1: 'Laster news',
+  STARTER_BLOG_TEXT_1: 'Press and Media',
   STARTER_BLOG_TEXT_2:
     'Here we will publish some of the latest news about PythonOS, including new trends, new future plans, and new features.',
 
@@ -341,7 +341,7 @@ const CONFIG = {
     },
   ],
 
-  STARTER_FOOTER_BLOG_LATEST_TITLE: 'Press and media',
+  STARTER_FOOTER_BLOG_LATEST_TITLE: 'Press and Media',
 
   // STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
   // STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',

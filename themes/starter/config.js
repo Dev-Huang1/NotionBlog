@@ -178,13 +178,11 @@ const CONFIG = {
   STARTER_FAQ_2_ANSWER:
     'Please see the <a href="https://github.com/happyleibniz/Python-Operating-System/wiki">Wiki</a>',
 
-  // STARTER_FAQ_3_QUESTION: '',
-  // STARTER_FAQ_3_ANSWER:
-    // '',
+  STARTER_FAQ_3_QUESTION: 'Is this project open source?',
+  STARTER_FAQ_3_ANSWER: 'Yes, this project is open source.',
 
-  // STARTER_FAQ_4_QUESTION: '',
-  // STARTER_FAQ_4_ANSWER:
-   // '',
+  STARTER_FAQ_4_QUESTION: 'Will you guys optimize the system kernel size in the next release? I really need it, thanks!',
+  STARTER_FAQ_4_ANSWER: 'Of course, we will do everything we can to optimize our UI and code, thank you!',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关

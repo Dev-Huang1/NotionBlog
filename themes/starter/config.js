@@ -292,7 +292,7 @@ const CONFIG = {
           URL: ''
         }
       ]
-    }
+    },
     {
       TITLE: 'Team',
       LINK_GROUP: [

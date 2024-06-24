@@ -23,11 +23,11 @@ const CONFIG = {
   STARTER_HERO_PREVIEW_IMAGE: 'https://cdn.xyehr.cn/images/333884905-b65a99c2-4dd0-4f8f-b283-d7a6b1f13ecc.png', // 产品预览图 ，默认读取public目录下图片
 
   // 顶部右侧导航暗流
-  STARTER_NAV_BUTTON_1_TEXT: 'Download',
-  STARTER_NAV_BUTTON_1_URL: 'https://github.com/happyleibniz/Python-Operating-System/',
+  STARTER_NAV_BUTTON_1_TEXT: 'About',
+  STARTER_NAV_BUTTON_1_URL: '',
 
-  STARTER_NAV_BUTTON_2_TEXT: '',
-  STARTER_NAV_BUTTON_2_URL: '',
+  STARTER_NAV_BUTTON_2_TEXT: 'Download',
+  STARTER_NAV_BUTTON_2_URL: 'https://github.com/happyleibniz/Python-Operating-System/',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关

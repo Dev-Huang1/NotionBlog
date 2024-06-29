@@ -176,13 +176,13 @@ const CONFIG = {
 
   STARTER_FAQ_2_QUESTION: 'Are these apps free?',
   STARTER_FAQ_2_ANSWER:
-    'Please see the <a href="https://github.com/happyleibniz/Python-Operating-System/wiki">Wiki</a>',
+    'Yes, these apps are all free, but you can also sponsor our developers.',
 
-  STARTER_FAQ_3_QUESTION: 'Is this project open source?',
-  STARTER_FAQ_3_ANSWER: 'Yes, this project is open source.',
+  STARTER_FAQ_3_QUESTION: 'Are these apps safe?',
+  STARTER_FAQ_3_ANSWER: 'Yes, these apps are very safe because its data is stored locally and we cannot see your data.',
 
-  STARTER_FAQ_4_QUESTION: 'Will you guys optimize the system kernel size in the next release? I really need it, thanks!',
-  STARTER_FAQ_4_ANSWER: 'Of course, we will do everything we can to optimize our UI and code, thank you!',
+  STARTER_FAQ_4_QUESTION: 'Will there be ads within these apps?',
+  STARTER_FAQ_4_ANSWER: 'No, we are a non-profit studio.',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关

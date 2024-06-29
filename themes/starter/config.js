@@ -10,27 +10,27 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: 'PythonOS', // 英雄区文字
+  STARTER_HERO_TITLE_1: 'Tech Art', // 英雄区文字
   STARTER_HERO_TITLE_2: 'Open a new world with code!', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: 'Try it now!', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: 'Learn more', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://github.com/happyleibniz/Python-Operating-System', // 英雄区按钮
+    '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: 'https://cdn.xyehr.cn/images/333884905-b65a99c2-4dd0-4f8f-b283-d7a6b1f13ecc.png', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: '', // 产品预览图 ，默认读取public目录下图片
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: 'About',
-  STARTER_NAV_BUTTON_1_URL: 'https://www.xyehr.cn/about',
+  STARTER_NAV_BUTTON_1_URL: '/about',
 
-  STARTER_NAV_BUTTON_2_TEXT: 'Download',
-  STARTER_NAV_BUTTON_2_URL: 'https://github.com/happyleibniz/Python-Operating-System/',
+  STARTER_NAV_BUTTON_2_TEXT: 'Our Products',
+  STARTER_NAV_BUTTON_2_URL: '',
 
   // 特性区块
-  STARTER_FEATURE_ENABLE: true, // 特性区块开关
+  STARTER_FEATURE_ENABLE: false, // 特性区块开关
   STARTER_FEATURE_TITLE: 'Features', // 特性
   STARTER_FEATURE_TEXT_1: 'Key Features of PythonOS', // 特性
   STARTER_FEATURE_TEXT_2:
@@ -109,7 +109,7 @@ const CONFIG = {
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
   // 首页用户测评区块
-  STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
+  STARTER_TESTIMONIALS_ENABLE: false, // 测评区块开关
   STARTER_TESTIMONIALS_TITLE: 'Customer feedback',
   STARTER_TESTIMONIALS_TEXT_1: 'See what our users say.',
   STARTER_TESTIMONIALS_TEXT_2:
@@ -282,7 +282,7 @@ const CONFIG = {
       TITLE: 'Products',
       LINK_GROUP: [
         {
-          TITLE: 'PythonOS',
+          TITLE: '',
           URL: ''
         },
         {
@@ -300,14 +300,10 @@ const CONFIG = {
         },
         {
           TITLE: 'Developer Center',
-          URL: 'https://x.com/PythonOS_Dev'
+          URL: 'https://x.com/TechArt_Dev'
         },
         {
-          TITLE: 'Developer Community',
-          URL: 'https://support.xyehr.cn/jekyll/2024-06-12-join-us.html'
-        },
-        {
-          TITLE: 'User Community',
+          TITLE: 'Community',
           URL: 'https://discord.com/invite/TeWWcmzAnf'
         },
         {
@@ -320,12 +316,12 @@ const CONFIG = {
       TITLE: 'Connect',
       LINK_GROUP: [
         { 
-          TITLE: 'Docs & Wiki', 
-          URL: 'https://github.com/happyleibniz/Python-Operating-System/wiki/Home' 
+          TITLE: '', 
+          URL: '' 
         },
         {
           TITLE: 'Help & Support',
-          URL: 'https://support.xyehr.cn'
+          URL: 'https://x.com/TechArt_Sup'
         },
         { 
           TITLE: 'Events', 
@@ -344,8 +340,8 @@ const CONFIG = {
   // STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
   // STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
 
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: 'Legal Notices',
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: 'https://github.com/happyleibniz/Python-Operating-System/wiki/Agreement-&-Legal-Notices',
+  // STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '',
+  // STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '',
     
   // STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议',
   // STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',

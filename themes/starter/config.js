@@ -170,11 +170,11 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: 'Have any questions? Look here!',
   STARTER_FAQ_TEXT_2: 'We have collected common user questions',
 
-  STARTER_FAQ_1_QUESTION: 'What Python version do I need?',
+  STARTER_FAQ_1_QUESTION: 'Will the apps developed by Tech Art be open source?',
   STARTER_FAQ_1_ANSWER:
-    '3.10+',
+    'Yes, we will open source all our projects and apps.',
 
-  STARTER_FAQ_2_QUESTION: 'What modules do I need to install?',
+  STARTER_FAQ_2_QUESTION: 'Are these apps free?',
   STARTER_FAQ_2_ANSWER:
     'Please see the <a href="https://github.com/happyleibniz/Python-Operating-System/wiki">Wiki</a>',
 

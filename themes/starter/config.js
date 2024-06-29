@@ -282,10 +282,6 @@ const CONFIG = {
       TITLE: 'Products',
       LINK_GROUP: [
         {
-          TITLE: '',
-          URL: ''
-        },
-        {
           TITLE: 'Minecraft Python Edition',
           URL: ''
         }
@@ -315,10 +311,6 @@ const CONFIG = {
     {
       TITLE: 'Connect',
       LINK_GROUP: [
-        { 
-          TITLE: '', 
-          URL: '' 
-        },
         {
           TITLE: 'Help & Support',
           URL: 'https://x.com/TechArt_Sup'

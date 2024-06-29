@@ -67,8 +67,8 @@ const CONFIG = {
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: 'Leading',
-  STARTER_ABOUT_TIPS_2: 'Safe',
-  STARTER_ABOUT_TIPS_3: 'and Concise',
+  STARTER_ABOUT_TIPS_2: 'Innovative',
+  STARTER_ABOUT_TIPS_3: 'and Intelligent',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: false, // 价格区块开关

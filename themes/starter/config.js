@@ -189,7 +189,7 @@ const CONFIG = {
   STARTER_TEAM_TITLE: 'Team member',
   STARTER_TEAM_TEXT_1: 'Our Developer Team',
   STARTER_TEAM_TEXT_2:
-    'PythonOS is contributed by many technology enthusiasts and programming enthusiasts. Here, we would like to thank every<a className="underline" href="https://github.com/happyleibniz/Python-Operating-System/graphs/contributors">contributor</a>',
+    'Tech Art is contributed by many technology enthusiasts and programming enthusiasts. Here, we would like to thank every<a className="underline" href="https://github.com/happyleibniz/Python-Operating-System/graphs/contributors">contributor</a>',
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TEAM_ITEMS: [

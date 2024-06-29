@@ -59,14 +59,14 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: 'What is PythonOS?',
+  STARTER_ABOUT_TITLE: 'What is Tech Art?',
   STARTER_ABOUT_TEXT:
-    'PythonOS is a simple operating system designed and developed using the Python programming language. All the code is open source, concise and clear, and takes up very little memory.',
-  STARTER_ABOUT_BUTTON_TEXT: 'Get started',
-  STARTER_ABOUT_BUTTON_URL: 'https://github.com/happyleibniz/Python-Operating-System',
+    'Tech Art is a 2-person studio and we are developing some apps.',
+  STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
+  STARTER_ABOUT_BUTTON_URL: '/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: 'Fast',
+  STARTER_ABOUT_TIPS_1: 'Leading',
   STARTER_ABOUT_TIPS_2: 'Safe',
   STARTER_ABOUT_TIPS_3: 'and Concise',
 

@@ -217,7 +217,7 @@ const CONFIG = {
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: 'Press and Media',
   STARTER_BLOG_TEXT_2:
-    'Here we will publish some of the latest news about PythonOS, including new trends, new future plans, and new features.',
+    'Here we will publish some of the latest news about Tech Art, including new trends, new future plans, and new features.',
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
